@@ -50,4 +50,3 @@ No Redux or UI framework — local state + URL search params only.
 - Image gallery on the detail page
 - Skeleton loaders
 - Unit tests for filter utilities and hooks
-- Deployed demo link (Vercel/Netlify)
